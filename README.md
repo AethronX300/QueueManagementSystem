@@ -1,6 +1,6 @@
 # QueueFlow - Scalable Queue Management System
 
-![QueueFlow Hero](assets/main-dashboard.png)
+![QueueFlow Hero](assets/business-hub.png)
 
 QueueFlow is a comprehensive, scalable platform designed to manage queues and tokens across multiple business types. By digitizing the waiting experience, QueueFlow eliminates the chaos of physical queues, streamlines operations, and significantly improves customer satisfaction.
 

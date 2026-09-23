@@ -1,0 +1,36 @@
+## Visual Studio / .NET ignore patterns
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][InN]32/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio temporary files, build logs, and databases
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Packages
+packages/
+*.nupkg
+
+# User-specific files
+*.suo
+*.user
+*.userquery
+*.docstates
+
+# OS generated files
+thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

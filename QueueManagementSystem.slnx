@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="QueueManagementSystem/QueueManagementSystem.csproj" Id="df811844-cf6f-4c40-b84c-a0bbe57cedbe">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
